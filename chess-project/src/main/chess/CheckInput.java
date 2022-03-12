@@ -27,7 +27,7 @@ public class CheckInput {
 		String validJ = "abcdefgh";
 
 		if (Character.isDigit(chars[0]) && validJ.contains(Character.toString(chars[1]))) {
-			if (Character.getNumericValue(chars[0]) <= 7 && Character.getNumericValue(chars[0]) >= 0) {
+			if (Character.getNumericValue(chars[0]) <= 8 && Character.getNumericValue(chars[0]) >= 1) {
 				return true;
 			}
 		}

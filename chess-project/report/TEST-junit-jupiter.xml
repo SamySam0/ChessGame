@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="JUnit Jupiter" tests="0" skipped="0" failures="0" errors="0" time="0.004" hostname="Sams-MacBook-Pro.local" timestamp="2022-02-11T13:09:05">
+<testsuite name="JUnit Jupiter" tests="0" skipped="0" failures="0" errors="0" time="0.003" hostname="Sams-MacBook-Pro.local" timestamp="2022-03-12T12:51:38">
 <properties>
 <property name="file.encoding" value="UTF-8"/>
 <property name="file.separator" value="/"/>
@@ -45,7 +45,7 @@
 <property name="sun.stderr.encoding" value="UTF-8"/>
 <property name="sun.stdout.encoding" value="UTF-8"/>
 <property name="user.country" value="GB"/>
-<property name="user.dir" value="/Users/sam/Desktop/School/JAVA Labs/JAVA CW/coursework"/>
+<property name="user.dir" value="/Users/sam/Desktop/School/Java/Git/JavaChessGame"/>
 <property name="user.home" value="/Users/sam"/>
 <property name="user.language" value="en"/>
 <property name="user.name" value="sam"/>
