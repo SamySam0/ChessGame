@@ -2,6 +2,7 @@
 
 ## Description:
 This is a terminal chess game developed in Java.
+<br> Some predefined test cases have been released with the game.
 
 ## Instructions:
 - To run the game: ./run.sh
